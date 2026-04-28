@@ -7,3 +7,5 @@ The mirrored site was created with `wget`:
 ```bash
 wget --mirror --convert-links --adjust-extension --page-requisites --no-parent --domains=ocl.cca.edu http://ocl.cca.edu
 ```
+
+© 2026 California College of the Arts.
